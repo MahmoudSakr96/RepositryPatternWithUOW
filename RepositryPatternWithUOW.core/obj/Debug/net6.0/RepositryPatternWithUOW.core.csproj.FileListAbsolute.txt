@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\bin\Debug\net6.0\RepositryPatternWithUOW.core.deps.json
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\bin\Debug\net6.0\RepositryPatternWithUOW.core.dll
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\bin\Debug\net6.0\RepositryPatternWithUOW.core.pdb
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\obj\Debug\net6.0\RepositryPatternWithUOW.core.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\obj\Debug\net6.0\RepositryPatternWithUOW.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\obj\Debug\net6.0\RepositryPatternWithUOW.core.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\obj\Debug\net6.0\RepositryPatternWithUOW.core.AssemblyInfo.cs
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\obj\Debug\net6.0\RepositryPatternWithUOW.core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\obj\Debug\net6.0\RepositryPatternWithUOW.core.dll
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\obj\Debug\net6.0\refint\RepositryPatternWithUOW.core.dll
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\obj\Debug\net6.0\RepositryPatternWithUOW.core.pdb
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.core\obj\Debug\net6.0\ref\RepositryPatternWithUOW.core.dll

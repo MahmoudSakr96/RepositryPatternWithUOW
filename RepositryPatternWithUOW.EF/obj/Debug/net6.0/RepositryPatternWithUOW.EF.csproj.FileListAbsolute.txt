@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\bin\Debug\net6.0\RepositryPatternWithUOW.EF.deps.json
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\bin\Debug\net6.0\RepositryPatternWithUOW.EF.runtimeconfig.json
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\bin\Debug\net6.0\RepositryPatternWithUOW.EF.dll
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\bin\Debug\net6.0\RepositryPatternWithUOW.EF.pdb
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\obj\Debug\net6.0\RepositryPatternWithUOW.EF.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\obj\Debug\net6.0\RepositryPatternWithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\obj\Debug\net6.0\RepositryPatternWithUOW.EF.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\obj\Debug\net6.0\RepositryPatternWithUOW.EF.AssemblyInfo.cs
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\obj\Debug\net6.0\RepositryPatternWithUOW.EF.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\obj\Debug\net6.0\RepositryPatternWithUOW.EF.dll
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\obj\Debug\net6.0\refint\RepositryPatternWithUOW.EF.dll
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\obj\Debug\net6.0\RepositryPatternWithUOW.EF.pdb
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\obj\Debug\net6.0\RepositryPatternWithUOW.EF.genruntimeconfig.cache
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\obj\Debug\net6.0\ref\RepositryPatternWithUOW.EF.dll
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\bin\Debug\net6.0\RepositryPatternWithUOW.core.dll
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\bin\Debug\net6.0\RepositryPatternWithUOW.core.pdb
+C:\Users\DELL\source\repos\RepositryPatternWithUOW\RepositryPatternWithUOW.EF\obj\Debug\net6.0\RepositryPatternWithUOW.EF.csproj.CopyComplete
